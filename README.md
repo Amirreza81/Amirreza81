@@ -1,9 +1,9 @@
 <div align="center">
   
-### Hi there 👋, I'm AmirReza Azari
+## Hi there 👋, I'm AmirReza Azari
 Feel free to check my repositories and contact me if you have any questions. I am always open to new opportunities and collaborations.
 
-### 📈 Languages and Tools:
+## 📈 Languages and Tools:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amirreza81&layout=compact&langs_count=10&theme=tokyonight)
 
 <p> <img src="https://komarev.com/ghpvc/?username=Amirreza81&label=Profile%20views&color=0e75b6&style=flat" alt="Amirreza81" /> </p>
@@ -22,6 +22,7 @@ Feel free to check my repositories and contact me if you have any questions. I a
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=Amirreza81&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
 </p>
+
 ## Contact
 
 
