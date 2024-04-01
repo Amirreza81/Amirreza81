@@ -6,7 +6,7 @@ Feel free to check my repositories and contact me if you have any questions. I a
 <p> <img src="https://komarev.com/ghpvc/?username=Amirreza81&label=Profile+Views&color=brightgreen&style=plastic&abbreviated=true" alt="Amirreza81" /> </p>
 
 ### Languages and Tools:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amirreza81&layout=compact&langs_count=10&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amirreza81&layout=pie&langs_count=10&theme=merko)
 
 
 ## Github Status
