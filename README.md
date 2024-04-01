@@ -22,7 +22,6 @@ Feel free to check my repositories and contact me if you have any questions. I a
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=Amirreza81&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
 </p>
-</div>
 ## Contact
 
 
@@ -32,3 +31,5 @@ Feel free to check my repositories and contact me if you have any questions. I a
 <a href="https://t.me/AmirrezaAzarii"><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/telegram.png" alt="telegram"/>
 <a href="https://www.instagram.com/amirrezaazari_/"><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/instagram-new--v1.png" alt="instagram"/>
 
+
+</div>
