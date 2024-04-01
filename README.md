@@ -1,3 +1,5 @@
+<div align="center">
+  
 ### Hi there 👋, I'm AmirReza Azari
 Feel free to check my repositories and contact me if you have any questions. I am always open to new opportunities and collaborations.
 
