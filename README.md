@@ -22,7 +22,7 @@ Feel free to check my repositories and contact me if you have any questions. I a
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=Amirreza81&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
 </p>
-
+</div>
 ## Contact
 
 
