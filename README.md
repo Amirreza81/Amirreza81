@@ -12,7 +12,7 @@ Feel free to check my repositories and contact me if you have any questions. I a
 ## Github Status
 
 <td colspan=2 align = "center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amirreza81&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amirreza81&theme=merko" />
 </td>
 
 <p align="center">
