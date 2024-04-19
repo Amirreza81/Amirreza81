@@ -3,9 +3,6 @@
 ### Hi there 👋, I'm AmirReza Azari
 Feel free to check my repositories and contact me if you have any questions. I am always open to new opportunities and collaborations.
 
-<p> <img src="https://komarev.com/ghpvc/?username=Amirreza81&label=Profile+Views&color=brightgreen&style=plastic&abbreviated=true" alt="Amirreza81" /> </p>
-
-
 ## Github Status
 
 <td colspan=2 align = "center">
