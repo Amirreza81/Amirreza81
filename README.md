@@ -1,5 +1,3 @@
-<div align="center">
-
 ### Hi there 👋, I'm AmirReza Azari
 I'm **Amirreza Azari**, a Computer Engineering undergraduate at Sharif University of Technology. Feel free to check my repositories and contact me if you have any questions. I am always open to new opportunities and collaborations.
 
@@ -15,11 +13,9 @@ I'm **Amirreza Azari**, a Computer Engineering undergraduate at Sharif Universit
 
 ## 📊 Github Status
 
-<td colspan=2 align = "center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amirreza81&theme=merko" />
-</td>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amirreza81&theme=merko" />
 
-<p align="center">
+<p>
   <img height="150px" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Amirreza81&show_icons=true&count_private=true&theme=merko&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="150px" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirreza81&layout=compact&hide_border=true&theme=merko&bg_color=00000000&langs_count=8&hide=jupyter%20notebook,tex,css,php">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Amirreza81&theme=merko" alt="GitHub Streak" /></a>
@@ -33,5 +29,3 @@ I'm **Amirreza Azari**, a Computer Engineering undergraduate at Sharif Universit
 <a href="mailto:amirrrr.azariii123@sharif.edu"><img width="55" height="55" src="https://img.icons8.com/glyph-neue/64/education.png" alt="education"/></a>
 <a href="https://t.me/AmirRezaAzarii"><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/telegram.png" alt="telegram"/></a>
 <a href="https://www.instagram.com/amirrezaazari_/"><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/instagram-new--v1.png" alt="instagram"/></a>
-
-</div>
