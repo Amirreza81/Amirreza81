@@ -27,5 +27,5 @@ I'm **Amirreza Azari**, a Computer Engineering undergraduate at Sharif Universit
 <a href="https://www.linkedin.com/in/amirreza-azari-2b3a13229/"><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/linkedin.png" alt="linkedin"/></a>
 <a href="mailto:amirrezaazari1381@gmail.com"><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/gmail-new.png" alt="Gmail"/></a>
 <a href="mailto:amirrrr.azariii123@sharif.edu"><img width="55" height="55" src="https://img.icons8.com/glyph-neue/64/education.png" alt="education"/></a>
-<a href="https://t.me/AmirRezaAzarii"><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/telegram.png" alt="telegram"/></a>
+<a href="https://t.me/AmirReza_Azari"><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/telegram.png" alt="telegram"/></a>
 <a href="https://www.instagram.com/amirrezaazari_/"><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/instagram-new--v1.png" alt="instagram"/></a>
