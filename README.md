@@ -1,17 +1,6 @@
 ### Hi there 👋, I'm AmirReza Azari
 I'm **Amirreza Azari**, a Computer Engineering undergraduate at Sharif University of Technology. Feel free to check my repositories and contact me if you have any questions. I am always open to new opportunities and collaborations.
 
-## 🛠️ Skills & Technologies
-- **Languages:** Python, Java, C
-- **Technologies & Tools:** OpenCV, Matplotlib, LaTeX
-- **Fields of Interest:** Computer Vision, Machine Learning, Deep Learning
-
-## 🚀 Featured Projects
-
-- [**Tennis Detection**](https://github.com/Amirreza81/Tennis-3DVision-Project) - A computer vision project for detecting tennis balls and players in real-time using Python and OpenCV.
-- [**Task Manager**](https://github.com/Amirreza81/Task-Management-App) - A task management app built in Java and Swing to help users organize and prioritize their tasks.
-
-
 <summary><h2>📊 Github Stats and Activity</h2></summary>
 
   <img alt="AmirReza's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Amirreza81&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=53F7CF&icon_color=53F7CF&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
