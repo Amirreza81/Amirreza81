@@ -1,5 +1,7 @@
-### Hi there 👋, I'm AmirReza Azari
-I'm **Amirreza Azari**, a Computer Engineering undergraduate at Sharif University of Technology. Feel free to check my repositories and contact me if you have any questions. I am always open to new opportunities and collaborations.
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> I'm AmirReza...  
+---
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=53F7CF&width=435&lines=Computer+Vision+Enthusiast)](https://git.io/typing-svg)
+---
 
 <summary><h2>📊 Github Stats and Activity</h2></summary>
 
