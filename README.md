@@ -4,12 +4,12 @@
 ---
 
 <div align="center">
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Amirreza81&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Amirreza81&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amirreza81&theme=react"&area=true&hide_border=false&order=5" height="212" />
 </div>
 
@@ -19,7 +19,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amirreza81&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=react&hide_border=false&order=2" height="230" alt="languages graph"  />
-</div>
+</div> -->
 
 
 
