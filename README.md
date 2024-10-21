@@ -11,7 +11,6 @@ I'm **Amirreza Azari**, a Computer Engineering undergraduate at Sharif Universit
 - [**Tennis Detection**](https://github.com/Amirreza81/Tennis-3DVision-Project) - A computer vision project for detecting tennis balls and players in real-time using Python and OpenCV.
 - [**Task Manager**](https://github.com/Amirreza81/Task-Management-App) - A task management app built in Java and Swing to help users organize and prioritize their tasks.
 
-## 📊 Github Status
 
 <summary><h2>📊 Github Stats and Activity</h2></summary>
 
