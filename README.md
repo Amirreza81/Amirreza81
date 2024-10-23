@@ -26,7 +26,7 @@
 ## 📊 Github Stats and Activity
 
   <img alt="AmirReza's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Amirreza81&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=53F7CF&icon_color=53F7CF&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-  <img src="https://streak-stats.demolab.com?user=Amirreza81&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=53F7CF&icon_color=53F7CF" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Amirreza81&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=53F7CF&icon_color=53F7CF" height="250" alt="streak graph"  />
   <br/>
 
  <img alt="Amirreza's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Amirreza81&bg_color=1F222E&color=53F7CF&line=53F7CF&point=FFFFFF&hide_border=true" /></a>
