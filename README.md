@@ -40,3 +40,5 @@
 <a href="mailto:amirrrr.azariii123@sharif.edu"><img width="55" height="55" src="https://img.icons8.com/glyph-neue/64/education.png" alt="education"/></a>
 <a href="https://t.me/AmirReza_Azari"><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/telegram.png" alt="telegram"/></a>
 <a href="https://www.instagram.com/amirrezaazari_/"><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/instagram-new--v1.png" alt="instagram"/></a>
+
+[![](https://visitcount.itsvg.in/api?id=Amirreza81&icon=0&color=12)](https://visitcount.itsvg.in)
