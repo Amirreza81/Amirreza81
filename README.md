@@ -29,7 +29,7 @@
   <img src="https://streak-stats.demolab.com?user=Amirreza81&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=53F7CF&icon_color=53F7CF" height="192px"/>
   <br/>
 
- <img alt="Amirreza's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Amirreza81&bg_color=1F222E&color=53F7CF&line=53F7CF&point=FFFFFF&hide_border=true" /></a>
+ <img alt="Amirreza's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Amirreza81&bg_color=1F222E&color=53F7CF&line=53F7CF&point=FFFFFF&hide_border=true&area=true" /></a>
 
 
 ## 📫 Contact Me
