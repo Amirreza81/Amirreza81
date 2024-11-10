@@ -41,4 +41,4 @@
 <a href="https://t.me/AmirReza_Azari"><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/telegram.png" alt="telegram"/></a>
 <a href="https://www.instagram.com/amirrezaazari_/"><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/instagram-new--v1.png" alt="instagram"/></a>
 
-[![](https://visitcount.itsvg.in/api?id=Amirreza81&icon=0&color=12)](https://github.com/Amirreza81)
+[![](https://visitcount.itsvg.in/api?id=Amirreza81&label=Profile%20Views&color=3&icon=0&pretty=true)](https://github.com/Amirreza81)
