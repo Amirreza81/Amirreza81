@@ -44,5 +44,6 @@
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=53F7CF&repeat=false&width=435&lines=Click+here+and+see+my+website!)](https://amirreza81.github.io/)
 ---
-
+<!--
 [![](https://visitcount.itsvg.in/api?id=Amirreza81&label=Profile%20Views&color=3&icon=0&pretty=true)](https://github.com/Amirreza81)
+-->
