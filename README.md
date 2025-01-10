@@ -32,7 +32,7 @@
  <img alt="Amirreza's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Amirreza81&bg_color=1F222E&color=53F7CF&line=53F7CF&point=FFFFFF&hide_border=true&area=true" /></a>
 
 
-## 📫 Contact Me
+## 📫 Contact
 
 <a href="mailto:amirrezaazari1381@gmail.com"><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/gmail-new.png" alt="Gmail"/></a>
 <a href="mailto:amirrezaazari1001@gmail.com"><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/gmail-new.png" alt="Gmail"/></a>
