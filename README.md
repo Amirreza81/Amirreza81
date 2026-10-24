@@ -31,17 +31,6 @@
 
 <div align="center">
 
-### `01` — AREAS OF INTEREST
-
-<img src="https://img.shields.io/badge/LLMs-1F222E?style=flat-square&logo=openai&logoColor=53F7CF"/>
-<img src="https://img.shields.io/badge/NLP-1F222E?style=flat-square&logo= HuggingFace&logoColor=53F7CF"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-1F222E?style=flat-square&logo=pytorch&logoColor=53F7CF"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-1F222E?style=flat-square&logo=scikitlearn&logoColor=53F7CF"/>
-
-<br/><br/>
-
-### `02` — GITHUB STATISTICS
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Amirreza81&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=53F7CF&icon_color=53F7CF&rank_icon=github" alt="GitHub Statistics"/>
 <br/>
 
